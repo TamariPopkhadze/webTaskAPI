@@ -4,7 +4,7 @@ info:
   description: PRODUCT
   version: 0.1.9
 servers:
-  - url: https://scandweb-api-production.up.railway.app/api
+  - url: https://web-2eel.onrender.com/api
     description: Railway server
   - url: http://localhost:4444/api
     description: Local server
